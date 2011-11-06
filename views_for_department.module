@@ -1,0 +1,7 @@
+"departments!"<?php
+/**
+ * @file
+ * Code for the Views for department feature.
+ */
+
+include_once('views_for_department.features.inc');
